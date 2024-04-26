@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.1-8.0.1-0~ubuntu20.04.1"
     },
-    "CreationDate": "2024-04-11T23:30:55+02:00"
+    "CreationDate": "2024-04-26T13:56:55+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "reaktor51_led",
       "GUID": "7265616b-746f-4723-9531-5f6c65642e6b",
-      "Revision": "rev?"
+      "Revision": "1"
     },
     "Size": {
       "X": 57.05,
@@ -80,24 +80,29 @@
     },
     {
       "Type": "SolderMask",
+      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
+      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
+      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
+      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {
