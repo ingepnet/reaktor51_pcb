@@ -35,3 +35,11 @@ Gerber for bestilling av PCB:
 
 ![Skjema](./rev2/reaktor51_game_schematic.png)
 
+## Håndtak
+
+Bruk denne filen for å 3d-printe et håndtak, som gjør kortet behagelig å holde i. Printes i normal og speilvendt utgave. Klipp komponentbeina korte på undersiden, slik at håndtakene blir enklere å skyve innpå.
+
+[./rev2/reaktor51_game_handle.step](./rev2/reaktor51_game_handle.step)
+
+![PCB](./rev2/reaktor51_game.jpg)
+
