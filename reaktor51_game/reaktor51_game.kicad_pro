@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.6,
-          "width": 1.6
+          "drill": 1.5,
+          "height": 2.5,
+          "width": 2.5
         },
         "silk_line_width": 0.2,
         "silk_text_italic": false,
@@ -550,26 +550,26 @@
         },
         {
           "group_by": false,
-          "label": "Digikey",
-          "name": "Digikey",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "MnfPnr",
           "name": "MnfPnr",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Mnfr",
           "name": "Mnfr",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Link",
+          "name": "Link",
           "show": false
         }
       ],

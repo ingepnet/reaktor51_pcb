@@ -5,9 +5,9 @@
 	(uuid "54e02bb6-bf83-4948-8029-db5a5341c1f3")
 	(paper "A4")
 	(title_block
-		(title "Reaktor51 Game")
-		(date "2024-11-17")
-		(rev "1")
+		(title "Reaktor51 Memory Game")
+		(date "2025-09-09")
+		(rev "2")
 		(comment 1 "Designer: Inge Aune Paulsen")
 	)
 	(lib_symbols
@@ -2088,15 +2088,6 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "CF14JT150RCT-ND"
-			(at 171.45 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MnfPnr" "CF14JT150R"
 			(at 171.45 74.93 0)
 			(effects
@@ -2107,6 +2098,15 @@
 			)
 		)
 		(property "Mnfr" "Stackpole Electronics Inc"
+			(at 171.45 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/stackpole-electronics-inc/CF14JT150R/1741294"
 			(at 171.45 74.93 0)
 			(effects
 				(font
@@ -2174,7 +2174,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF CER"
+			(at 71.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MnfPnr" "FG18X7R1E105KRT00"
+			(at 71.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mnfr" "TDK"
+			(at 71.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/tdk-corporation/FG18X7R1E105KRT00/7326658"
 			(at 71.12 96.52 0)
 			(effects
 				(font
@@ -2243,6 +2270,33 @@
 			)
 		)
 		(property "Description" "Push button switch with LED, generic"
+			(at 147.32 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MnfPnr" "12*12*7.3mm RED"
+			(at 147.32 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mnfr" "AliExpress"
+			(at 147.32 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.aliexpress.com/item/1005003507477622.html"
 			(at 147.32 121.92 0)
 			(effects
 				(font
@@ -2324,15 +2378,6 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "CF14JT150RCT-ND"
-			(at 171.45 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MnfPnr" "CF14JT150R"
 			(at 171.45 105.41 0)
 			(effects
@@ -2343,6 +2388,15 @@
 			)
 		)
 		(property "Mnfr" "Stackpole Electronics Inc"
+			(at 171.45 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/stackpole-electronics-inc/CF14JT150R/1741294"
 			(at 171.45 105.41 0)
 			(effects
 				(font
@@ -2418,15 +2472,6 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "CF14JT150RCT-ND"
-			(at 121.92 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MnfPnr" "CF14JT150R"
 			(at 121.92 55.88 0)
 			(effects
@@ -2437,6 +2482,15 @@
 			)
 		)
 		(property "Mnfr" "Stackpole Electronics Inc"
+			(at 121.92 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/stackpole-electronics-inc/CF14JT150R/1741294"
 			(at 121.92 55.88 0)
 			(effects
 				(font
@@ -2505,6 +2559,33 @@
 			)
 		)
 		(property "Description" "Push button switch with LED, generic"
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MnfPnr" "12*12*7.3mm RED"
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mnfr" "AliExpress"
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.aliexpress.com/item/1005003507477622.html"
 			(at 147.32 105.41 0)
 			(effects
 				(font
@@ -2653,15 +2734,6 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "CF14JT150RCT-ND"
-			(at 171.45 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MnfPnr" "CF14JT150R"
 			(at 171.45 90.17 0)
 			(effects
@@ -2672,6 +2744,15 @@
 			)
 		)
 		(property "Mnfr" "Stackpole Electronics Inc"
+			(at 171.45 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/stackpole-electronics-inc/CF14JT150R/1741294"
 			(at 171.45 90.17 0)
 			(effects
 				(font
@@ -2881,15 +2962,6 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "CF14JT150RCT-ND"
-			(at 171.45 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MnfPnr" "CF14JT150R"
 			(at 171.45 121.92 0)
 			(effects
@@ -2900,6 +2972,15 @@
 			)
 		)
 		(property "Mnfr" "Stackpole Electronics Inc"
+			(at 171.45 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/stackpole-electronics-inc/CF14JT150R/1741294"
 			(at 171.45 121.92 0)
 			(effects
 				(font
@@ -3034,6 +3115,33 @@
 			)
 		)
 		(property "Description" "Push button switch with LED, generic"
+			(at 147.32 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MnfPnr" "12*12*7.3mm RED"
+			(at 147.32 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mnfr" "AliExpress"
+			(at 147.32 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.aliexpress.com/item/1005003507477622.html"
 			(at 147.32 90.17 0)
 			(effects
 				(font
@@ -3242,7 +3350,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Speaker"
+		(property "Description" "Speaker 7.6mm pin spacing"
+			(at 171.45 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MnfPnr" "1407 Piezoelectric Passive Buzzer 14x4mm 7.5mm"
+			(at 171.45 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mnfr" "AliExpress"
+			(at 171.45 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.aliexpress.com/item/1005004932492920.html"
 			(at 171.45 53.34 0)
 			(effects
 				(font
@@ -3320,15 +3455,6 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "36-103-ND"
-			(at 48.26 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MnfPnr" "103"
 			(at 48.26 57.15 0)
 			(effects
@@ -3339,6 +3465,15 @@
 			)
 		)
 		(property "Mnfr" "Keystone"
+			(at 48.26 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/keystone-electronics/103/331620"
 			(at 48.26 57.15 0)
 			(effects
 				(font
@@ -3551,6 +3686,33 @@
 				(hide yes)
 			)
 		)
+		(property "MnfPnr" "ATtiny13A-PU"
+			(at 78.74 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/microchip-technology/ATTINY13A-PU/1914671"
+			(at 78.74 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mnfr" "Microchip Technology"
+			(at 78.74 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "3a0e40d5-c58f-4b80-bd34-f3e9a00b7112")
 		)
@@ -3601,7 +3763,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "4k7"
 			(at 171.45 137.668 90)
 			(effects
 				(font
@@ -3636,16 +3798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "CF14JT150RCT-ND"
-			(at 171.45 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MnfPnr" "CF14JT150R"
+		(property "MnfPnr" "CF14JT4K70"
 			(at 171.45 134.62 0)
 			(effects
 				(font
@@ -3655,6 +3808,15 @@
 			)
 		)
 		(property "Mnfr" "Stackpole Electronics Inc"
+			(at 171.45 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/stackpole-electronics-inc/CF14JT4K70/1741428"
 			(at 171.45 134.62 0)
 			(effects
 				(font
@@ -3731,6 +3893,33 @@
 				(hide yes)
 			)
 		)
+		(property "MnfPnr" "12*12*7.3mm RED"
+			(at 147.32 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mnfr" "AliExpress"
+			(at 147.32 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.aliexpress.com/item/1005003507477622.html"
+			(at 147.32 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e1502857-50bc-4de5-9a47-82daba21dfb6")
 		)
@@ -3796,7 +3985,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF CER"
+			(at 147.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MnfPnr" "FG18X7R1E105KRT00"
+			(at 147.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mnfr" "TDK"
+			(at 147.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.no/en/products/detail/tdk-corporation/FG18X7R1E105KRT00/7326658"
 			(at 147.32 55.88 0)
 			(effects
 				(font
