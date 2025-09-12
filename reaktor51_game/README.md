@@ -24,7 +24,7 @@ Gerber for bestilling av PCB:
 |-|-|-|-|-|
 | BT1       | Batteriholder for CR2032                 | 1        | Keystone 103    | https://www.digikey.no/en/products/detail/keystone-electronics/103/331620       | 
 | U1        | AVR Microkontroller                      | 1        | ATtiny13A-PU    | https://www.digikey.no/en/products/detail/microchip-technology/ATTINY13A-PU/1914671       | 
-| C1, C2    | Keramisk kondensator                     | 1        | 1uF 25V         | https://www.digikey.no/en/products/detail/tdk-corporation/FG18X7R1E105KRT00/7326658      |
+| C1, C2    | Keramisk kondensator                     | 2        | 1uF 25V         | https://www.digikey.no/en/products/detail/tdk-corporation/FG18X7R1E105KRT00/7326658      |
 | LS1       | Piezo høyttaler D=14mm H=4mm Pitch=7.5mm | 1        | 14x4mm 7.5mm    | https://www.aliexpress.com/item/1005004932492920.html    |
 | R1, R2, R3, R4, R6  | Motstand 150ohm (2.3x6mm)      | 5        | 150ohm          | https://www.digikey.no/en/products/detail/stackpole-electronics-inc/CF14JT150R/1741294    |
 | R5        | Motstand 4.7kohm (2.3x6mm)               | 1        | 4.7kohm         | https://www.digikey.no/en/products/detail/stackpole-electronics-inc/CF14JT4K70/1741428    |
